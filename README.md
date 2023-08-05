@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="250">
 I'm Mohamed Kardosha, a 19 years old undergraduate Engineer from Egypt.
 
-- 👥 Undergradute Electronics and Communications Engineer at [Mansoura University]("https://www.mans.edu.eg/en").
+- 👥 Undergraduate Electronics and Communications Engineer at [Mansoura University]("https://www.mans.edu.eg/en").
 
 - 🦔 Problem Solver at codeforces [mhmdkardosha](https://codeforces.com/profile/mhmdkrdsh4).
 
