@@ -21,7 +21,7 @@ I'm Mohamed Kardosha, a 19-year-old undergraduate Engineer from Egypt.
 <img alt="Static Badge" src="https://img.shields.io/badge/mohamedkrdsh9%40gmail.com-white?logo=Gmail">
 ![GitHub followers](https://img.shields.io/github/followers/mhmdkardosha?label=Follow&style=social)
 
-<img align="left" src="https://github-readme-stats-seven-pink-82.vercel.app/api/top-langs/?username=mhmdkardosha&hide=TeX&layout=compact">
+[![Top Langs](https://github-readme-stats-tau-pink-47.vercel.app//api/top-langs/?username=mhmdkardosha&layout=donut)](https://github.com/mhmdkardosha/github-readme-stats)
 <br>
 <a href="https://komarev.com/ghpvc/?username=mhmdkardosha&style=for-the-badge">
     <img align="left" src="https://komarev.com/ghpvc/?username=mhmdkardosha&style=for-the-badge">
