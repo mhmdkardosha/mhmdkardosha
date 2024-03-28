@@ -8,47 +8,61 @@ I'm Mohamed Kardosha, a 20-year-old undergraduate Engineer from Egypt.
 
 - 👨‍💻 Currently doing my best to be a Data scientist.
 
+- **2x** Expert on [Kaggle](https://www.kaggle.com/mhmdkardosha) (Notebooks and datasets).
+
+<br>
+
   
 ## Skills
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-darkblue?logo=C%2B%2B">&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/Java-orange?logo=oracle">&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/python-white?logo=python">&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/Numpy-blue?logo=Numpy">&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/Pandas-darkred?logo=Pandas">&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter">
 
 <div align="left">
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="35" alt="Pandas"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="35" alt="Numpy"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="35" alt="Jupyter"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="Html5"  />
+  
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
+  <img width="3" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo"  />
+  <img width="3" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
+  <img width="3" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+  <img width="3" />
+</div>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
 </div>
 
 
 ## Contact
-[![Linkedin: anmol](https://img.shields.io/badge/-Kardosha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-kardosha-4b8552248/)](https://www.linkedin.com/in/mohamed-kardosha-4b8552248/)
-<img alt="Static Badge" src="https://img.shields.io/badge/mohamedkardosha9%40gmail.com-white?logo=Gmail">
-![GitHub followers](https://img.shields.io/github/followers/mhmdkardosha?label=Follow&style=social)
-
-<br clear="both">
 
 <div align="left">
-  <a href="@mohamedkardosha9@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="40" alt="gmail logo"  />
+  <a href="http://www.linkedin.com/in/mohamed-ahmed-4b8552248" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="Linkedin logo"/>
   </a>
-  <a href="www.linkedin.com/in/mohamed-ahmed-4b8552248" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
+  <a href="mailto:mohamedkardosha9@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="Gmail logo"/>
   </a>
-  <a href="mohamedahmedomer" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="58" height="40" alt="discord logo"  />
+  <a href="https://discordapp.com/users/704501004573343756" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="Discord logo"/>
   </a>
   <a href="https://www.hackerrank.com/profile/mohamedkrdsh9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="58" height="40" alt="hackerrank logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="Hackerrank logo"/>
   </a>
+  <a href="https://www.kaggle.com/mhmdkardosha" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="60" height="40" alt="kaggle logo"/>
+  </a>
+  <a href="https://github.com/mhmdkardosha">
+    <img src="https://img.shields.io/github/followers/mhmdkardosha?label=Follow&style=social&link=https://github.com/mhmdkardosha" alt="GitHub followers" width="120" height="auto">
+  </a>
+
+  
 </div>
 
 ##
