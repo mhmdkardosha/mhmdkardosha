@@ -15,9 +15,8 @@ I'm Mohamed Kardosha, a 20-year-old undergraduate Engineer from Egypt.
 
 
 ## Contact
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=kardoshasspace)](https://twitter.com/kardoshasspace)
 [![Linkedin: anmol](https://img.shields.io/badge/-Kardosha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-kardosha-4b8552248/)](https://www.linkedin.com/in/mohamed-kardosha-4b8552248/)
-<img alt="Static Badge" src="https://img.shields.io/badge/mohamedkrdsh9%40gmail.com-white?logo=Gmail">
+<img alt="Static Badge" src="https://img.shields.io/badge/mohamedkardosha9%40gmail.com-white?logo=Gmail">
 ![GitHub followers](https://img.shields.io/github/followers/mhmdkardosha?label=Follow&style=social)
 
 [![Top Langs](https://github-readme-stats-tau-pink-47.vercel.app//api/top-langs/?username=mhmdkardosha&layout=donut)](https://github.com/mhmdkardosha)
