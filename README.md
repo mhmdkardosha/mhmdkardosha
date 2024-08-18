@@ -52,7 +52,7 @@ I'm Mohamed Kardosha, a 20-year-old undergraduate Engineer from Egypt.
   <a href="https://discordapp.com/users/704501004573343756" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="Discord logo"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/mohamedkrdsh9" target="_blank">
+  <a href="https://www.hackerrank.com/profile/mhmdkardosha" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="Hackerrank logo"/>
   </a>
   <a href="https://www.kaggle.com/mhmdkardosha" target="_blank">
