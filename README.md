@@ -43,7 +43,7 @@ I'm Mohamed Kardosha, a 20-year-old undergraduate Engineer from Egypt.
 ## Contact
 
 <div align="left">
-  <a href="http://www.linkedin.com/in/mohamed-kardosha-4b8552248" target="_blank">
+  <a href="http://www.linkedin.com/in/mohamedkardosha" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="Linkedin logo"/>
   </a>
   <a href="mailto:mohamedkardosha9@gmail.com">
