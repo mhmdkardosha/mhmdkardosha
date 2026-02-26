@@ -65,11 +65,6 @@ I'm Mohamed Kardosha, a 21-year-old undergraduate Engineer from Egypt.
   
 </div>
 
-##
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdkardosha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=gruvbox&hide_border=true" height="150" alt="Top Langs"/> <img src="https://streak-stats.demolab.com?user=mhmdkardosha&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="Streak graph"/>
-
 <br>
 <a href="https://komarev.com/ghpvc/?username=mhmdkardosha&style=for-the-badge">
     <img align="left" src="https://komarev.com/ghpvc/?username=mhmdkardosha&style=for-the-badge">
