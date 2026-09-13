@@ -1,6 +1,6 @@
 <h1 align = "center">Salam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <img align='right' src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="250">
-I'm Mohamed Kardosha, a 22-year-old undergraduate Engineer from Egypt.
+I'm Mohamed Kardosha, a 22-year-old recent graduate in Electronics and Communications Engineering from Egypt.
 
 - 👥 A recent Electronics and Communications Engineering graduate from [Mansoura University]("https://www.mans.edu.eg/en").
 
